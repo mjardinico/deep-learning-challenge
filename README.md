@@ -2,6 +2,7 @@
 
 ### Data Preprocessing
 * __Load Data__: Import your dataset (e.g., charity_data.csv) into a dataframe.
+![Original Datafream](https://github.com/mjardinico/deep-learning-challenge/blob/main/Resources/Images/application_df.png)
 * __Clean Data:__ Remove irrelevant columns such as EIN and NAME to focus on meaningful data.
 ![Drop EIN and Name](https://github.com/mjardinico/deep-learning-challenge/blob/main/Resources/Images/application_df_drop.png)
 * __Analyze Data:__ Identify unique values across columns to understand data distribution and compress categories with rare occurrences into a single "Other" category.
@@ -13,8 +14,9 @@
 * Design Neural Network: Construct a neural network model, defining the appropriate input size, layers, and nodes. Incorporate activation functions suited to your analysis goals.
 * Review Model Structure: Ensure your model's architecture aligns with your project objectives.
 * Train Model: Compile and train your model on the training dataset, optimizing parameters for best performance.
-![Structure of the Model]()
+![Structure of the Model](https://github.com/mjardinico/deep-learning-challenge/blob/main/Resources/Images/model_structure1.png)
 * Model Evaluation: Assess your model using the testing set to determine its accuracy and loss metrics.
+
 * Save Model: Export your finalized model to an HDF5 file (AlphabetSoupCharity.h5) for deployment or future reference.
 
 ### Model Optimization
