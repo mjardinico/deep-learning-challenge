@@ -28,7 +28,9 @@ __Compiling, Taining, and Evaluating the Model__
     ![Model Training Optimization](https://github.com/mjardinico/deep-learning-challenge/blob/main/Resources/Images/model_structure2.png)
 
 * Evaluation of the Optimized Model:
+
     ![Evaluation of model training](https://github.com/mjardinico/deep-learning-challenge/blob/main/Resources/Images/accuracy_loss_2.png)
+
 
 __SUMMARY__
 
