@@ -21,7 +21,7 @@
 
 ### Model Optimization
 * Refine Preprocessing: Reevaluate and enhance your data preprocessing steps for improved model input quality.
-* Optimize Neural Network: Apply at least three optimization techniques to your model design, aiming to boost performance.
+* Optimize Neural Network: Apply at least three optimization techniques to your model design, aiming to boost performance. Such as: dropping columns, creating more bins, add more hidden layers, user different activation functions, add or reduce number of epochs, etc.
 * Export Optimized Model: Save your enhanced model as AlphabetSoupCharity_Optimization.h5 to document the improvements made.
 
 ### Reporting
