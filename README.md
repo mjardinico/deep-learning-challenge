@@ -16,7 +16,7 @@
 * Train Model: Compile and train your model on the training dataset, optimizing parameters for best performance.
 ![Structure of the Model](https://github.com/mjardinico/deep-learning-challenge/blob/main/Resources/Images/model_structure1.png)
 * Model Evaluation: Assess your model using the testing set to determine its accuracy and loss metrics.
-
+![Accuracy and loss metrics](https://github.com/mjardinico/deep-learning-challenge/blob/main/Resources/Images/accuracy_loss_1.png)
 * Save Model: Export your finalized model to an HDF5 file (AlphabetSoupCharity.h5) for deployment or future reference.
 
 ### Model Optimization
